@@ -1,4 +1,0 @@
-spotify
-mpv
-vlc
-mpd
